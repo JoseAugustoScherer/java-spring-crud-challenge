@@ -1,6 +1,6 @@
 # java-spring-crud-challenge 🍃
 
-Desafio do curso Spring Boot da Devsuperior
+Desafio do curso Spring Boot da [@Devsuperior](https://devsuperior.com.br/)
 
 ## Sobre 📢
 
